@@ -31,9 +31,9 @@
   </a>
 
   <h3 align="center">Laboratorio 1 - Robótica</h3>
-## Integrantes
-* Alejandro Ojeda Olarte
-* Mateo Rodriguez
-* Brayan Calderon
-## Desarrollo
+##  Integrantes
+*  Alejandro Ojeda Olarte
+*  Mateo Rodriguez
+*  Brayan Calderon
+##  Desarrollo
 Se desarrolló en MATLAB el Laboratorio 1, con los toolboxes Robotics System Toolbox y Robotics, Vision & Control de Peter Corke.
